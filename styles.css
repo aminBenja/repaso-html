@@ -1,7 +1,33 @@
+body{
+    background-color: #feffec;
+    margin: 0px;
+}
+
 #header{
-   background-color: #feffec;
+   background-color: white;
    font-family: 'Alegreya Sans', sans-serif;
+   margin: 0px;
+   padding: 10px;
 }
 #header h1{
-    font-size: 250%;
+    margin: 0px;
+}
+#header ul{
+    list-style: none;
+    font-size: 20px;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    /*COMENTARIO 2 EL OVERFLOW ES PARA QUE SE ARREGLE LA LISTA
+    ES QUE CUANDO LE PONEMOS LO DE FLOTAR COMO QUE SE VA DEL HEADER
+    OVERFLOW HIDDEN ES PARA CORREGIRLO*/
+    
+}
+#header li{
+    
+    float: left;
+    /*COMENTARIO 1  EL FLOAT ES PARA QUE LOS ELEMENTOS SE PONGAN DE FORMA HORIZONTAL*/
+    margin: 0 15px 0 0;
+    /*LOS MARGENES SON CUANDO SON 4 SE DIVIDEN DE ARRIBA, DERECHA,
+    ABAJO E IZQUIERDA*/
 }
