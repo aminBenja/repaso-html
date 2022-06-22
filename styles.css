@@ -43,9 +43,21 @@ body{
  height: 50%;  
 
 }
+
+/*COMENTARIOS 3 BUNDLE*/
 #header ul a{
     color: black;
+    /*EL TEXTO DE LOS ENLACES DEL HEADER EN LA LISTA NO NUMERADA
+    PASAN A SER NEGROS COMPLETAMENTE EN LUGAR DEL COLOR AZUL CULERO QUE 
+    AGARRABAN*/
+    text-decoration: none;
+    /*le quitamos la "decoracion culera que llevaba, el subrayado culero"*/
 }
 #header ul a:hover{
+    /*EL HOVER ES DE CUANDO PASAMOS CON EL PUNTERO POR ALGUNA PARTE
+    PARA QUE SE VEA PLACOZO*/
     color: grey;
+    /*PUES LO MISMO PARA CUANDO PASEMOS POR ALLÍ LAS LETRAS SE PONGAN
+    GRISES*/
 }
+
