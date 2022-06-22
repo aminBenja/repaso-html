@@ -31,3 +31,6 @@ body{
     /*LOS MARGENES SON CUANDO SON 4 SE DIVIDEN DE ARRIBA, DERECHA,
     ABAJO E IZQUIERDA*/
 }
+#content{
+    padding: 10px;
+}
