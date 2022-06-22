@@ -31,6 +31,21 @@ body{
     /*LOS MARGENES SON CUANDO SON 4 SE DIVIDEN DE ARRIBA, DERECHA,
     ABAJO E IZQUIERDA*/
 }
+
 #content{
-    padding: 10px;
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Staatliches', cursive;
+    padding: 20px;
+    
+}
+#kanye{
+ width: 50%;
+ height: 50%;  
+
+}
+#header ul a{
+    color: black;
+}
+#header ul a:hover{
+    color: grey;
 }
