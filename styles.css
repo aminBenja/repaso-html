@@ -31,3 +31,9 @@ body{
     /*LOS MARGENES SON CUANDO SON 4 SE DIVIDEN DE ARRIBA, DERECHA,
     ABAJO E IZQUIERDA*/
 }
+
+#content{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Staatliches', cursive;
+    font-size: 80%;
+}
