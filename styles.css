@@ -35,10 +35,11 @@ body{
 #content{
     font-family: 'Alegreya Sans', sans-serif;
     font-family: 'Staatliches', cursive;
+    padding: 20px;
     
 }
 #kanye{
  width: 50%;
  height: 50%;  
- margin: 0 0 0 10px;
+
 }
