@@ -99,5 +99,12 @@ no tengan linea abajo y que no se pongan azules*/
     
 }
 
+#contentIdexTable table tr:nth-child(odd) td{
+    background-color: aqua;
+}
+
+#contentIdexTable table tr:nth-child(even) td{
+    background-color: #feffec;
+}
 
 
