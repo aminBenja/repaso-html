@@ -3,6 +3,13 @@ body{
     margin: 0px;
 }
 
+#content{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Staatliches', cursive;
+    padding: 20px;
+    
+}
+
 #header{
    background-color: white;
    font-family: 'Alegreya Sans', sans-serif;
@@ -32,12 +39,7 @@ body{
     ABAJO E IZQUIERDA*/
 }
 
-#content{
-    font-family: 'Alegreya Sans', sans-serif;
-    font-family: 'Staatliches', cursive;
-    padding: 20px;
-    
-}
+
 
 
 #header ul a{
@@ -78,3 +80,24 @@ no tengan linea abajo y que no se pongan azules*/
     
     
 }
+
+#contentIdexTable{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Staatliches', cursive;
+    
+    margin: 20px 25% 0 25%;
+}
+#contentIdexTable table{
+    border-collapse: collapse;
+    width: 100%;
+
+}
+#contentIdexTable tr, th, td{
+    border: 1px solid grey;
+    padding: 3px;
+    background-color: white;
+    
+}
+
+
+
