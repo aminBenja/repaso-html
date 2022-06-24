@@ -62,3 +62,19 @@ no tengan linea abajo y que no se pongan azules*/
     float: left;
    
 }
+#contentCa form [type=text], #contentCa form [type=email], #contentCa form textarea{
+    display: block;
+    width: 50%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-color: #b0b0b0;
+    
+}
+
+#contentCa{
+    font-family: 'Alegreya Sans', sans-serif;
+    font-family: 'Staatliches', cursive;
+    padding: 20px;
+    
+    
+}
